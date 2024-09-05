@@ -1,0 +1,13 @@
+const personalInfo = {
+    firstName: "ศุภจันทร์",
+    lastName: "ยอดลักษณ์",
+    houseNumber: "14",
+    villageNumber: "18",
+    road: "ถนนสุขสวัสดิ์",
+    subDistrict: "ยอดลักษณ์",
+    district: "กรุงเทพมหานคร",
+    postalCode: "10140",
+    landLine: "05-45678959",
+    telePhone: "085-458-0626",
+    eMail: "yodluk.su@gmail.com"
+}

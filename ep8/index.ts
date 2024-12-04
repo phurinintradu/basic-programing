@@ -911,11 +911,11 @@ const football = {
         ]
   
     }
-      champion: function () {
+     // champion: function () {
       return this.league.standings.filter(function (element, index) {
         return element.rank === 1
       })
     }
-  }
+  
   
   console.log(football.champion())
